@@ -34,8 +34,5 @@ export const MOCK_ROOMS: Room[] = [
 ];
 
 export const PARTNERS = [
-  { name: "Bergans", logo: "https://placehold.co/100x40/005f73/ffffff?text=Bergans" },
-  { name: "Devold", logo: "https://placehold.co/100x40/ffd60a/000000?text=DEVOLD" },
-  { name: "ZSE", logo: "https://placehold.co/100x40/ffffff/000000?text=ZSE" },
-  { name: "ALFA", logo: "https://placehold.co/100x40/ffffff/000000?text=ALFA" },
+  { name: "Bergans", logo: "https://zbojnickachata.sk/wp-content/uploads/2023/05/partneri-loga-nove.png" }
 ];

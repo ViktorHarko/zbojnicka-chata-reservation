@@ -35,7 +35,7 @@ const Footer: React.FC = () => {
           <h3 className="text-xl font-bold mb-4 font-serif">{t('partners')}</h3>
           <div className="grid grid-cols-2 gap-2 max-w-sm">
             {PARTNERS.map((partner, idx) => (
-              <img key={idx} src={partner.logo} alt={partner.name} className="h-12 w-full object-cover rounded shadow-sm" />
+              <img key={idx} src={partner.logo} alt={partner.name} className="h-25 w-full object-cover rounded shadow-sm" />
             ))}
           </div>
         </div>
